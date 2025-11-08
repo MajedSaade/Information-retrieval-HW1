@@ -1,0 +1,50 @@
+ 1. the	6910
+ 2. of	3423
+ 3. and	2919
+ 4. in	2594
+ 5. to	2089
+ 6. a	1831
+ 7. as	927
+ 8. is	885
+ 9. s	828
+10. for	742
+11. with	707
+12. on	683
+13. was	678
+14. that	675
+15. by	615
+16. from	560
+17. are	416
+18. an	408
+19. los	398
+20. angeles	390
+21. it	384
+22. at	379
+23. which	373
+24. his	353
+25. be	341
+26. he	320
+27. or	290
+28. also	278
+29. have	276
+30. has	273
+31. iss	271
+32. station	263
+33. film	262
+34. chan	261
+35. space	259
+36. disney	258
+37. energy	255
+38. this	226
+39. its	224
+40. way	224
+41. city	221
+42. new	210
+43. milky	208
+44. can	204
+45. were	202
+46. bronze	200
+47. one	199
+48. been	198
+49. street	189
+50. not	184
